@@ -106,6 +106,10 @@ after that enjoy
 the reasson you need it off is because it gets inbetween the proccess of installing the menu and deletes the obzx file witch is used to make 
 the gui coloured instead of lame black and white
 
+how to download just click on the creed CODE button then click download zip!
+
+or click on realeses and download that i recemend the first option
+
 
 
 ![thumbs-up](https://github.com/MMKSANDI/Spax-Menu/assets/111347467/a09e2925-ac26-40ff-9f36-852b0c08b4a9)
