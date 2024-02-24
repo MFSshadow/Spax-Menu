@@ -34,34 +34,83 @@ v1.3: Added configuration file (Because who doesn't love tweaking settings?).
 
 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
 
+
+
 ![0](https://github.com/MMKSANDI/Spax-Menu/assets/111347467/80856570-88cf-4663-9701-17c9ac3294c4)
+
+
+
 INSTRUCTIONS MUST BE FOLLOWED BEFORE DOWNLOAD TO INSURE THERE IS NO ISSUE WHILE RUNNING THE MENU
 
+
+
 STEP 1
+
+
 open settings!
+
+
 ![Windows_11_Settings](https://github.com/MMKSANDI/Spax-Menu/assets/111347467/fc3fe765-d0b4-436f-8f0e-4cf0a59c38fe)
 
 
+
+
 Step 2
+
+
+
 open windows security
+
+
+
+
+
 ![securityfeatureswindows10_windows_security](https://github.com/MMKSANDI/Spax-Menu/assets/111347467/7ff5a0ba-f024-4a6f-8153-51e6319fe0f1)
 
+
+
+
 step 3
+
+
+
 open virus and threat protection and then click manege settings
+
+
+
 ![5-virus-and-threat-protection-settings](https://github.com/MMKSANDI/Spax-Menu/assets/111347467/a5e99cbb-08d3-4a34-9b6f-087a0b9e558d)
 
 once you see this
+
+
+
 ![how to turn on or off windows defender real-time protection 1](https://github.com/MMKSANDI/Spax-Menu/assets/111347467/beccba23-719a-493f-add4-648a1d6caff7)
 
+
+
+
 turn it off
+
+
+
 ![Windows_Defender_Real-time_protection-off](https://github.com/MMKSANDI/Spax-Menu/assets/111347467/858b1586-37a4-406b-8c31-c1ea0568495e)
+
+
+
 
 after that enjoy
 
-the reasson you need it off is because it gets inbetween the proccess of installing the menu and deletes the obzx file witch is used to make the gui coloured instead of lame black and white
+
+
+
+the reasson you need it off is because it gets inbetween the proccess of installing the menu and deletes the obzx file witch is used to make 
+the gui coloured instead of lame black and white
+
 
 
 ![thumbs-up](https://github.com/MMKSANDI/Spax-Menu/assets/111347467/a09e2925-ac26-40ff-9f36-852b0c08b4a9)
+
+
 
 
 have fun!!!!! 
