@@ -32,7 +32,7 @@ v1.1: Bug fixes and performance enhancements (We promise we didn't just add more
 v1.2: Added compatibility with additional game titles and improved user interface (Now with more flashy buttons!).
 v1.3: Added configuration file (Because who doesn't love tweaking settings?).
 
-🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+🔴🔴🔴🔴🔴🔴🔴
 
 
 
